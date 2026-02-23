@@ -1,3 +1,14 @@
+Week 7
+This week I worked on next wave dev static website and nsc events supabase backend integration. I added myself to the developers page on next wave dev and then helped refactor the files in next wave dev. developers were still being refered to as students - changes what was remaining when we cloned the nsc ad website for next wave dev. I changed all the reference of student to developer. I also helped review a whole bunch of pull requests. On top of that, I am working on nec events. Currently I am helping set up the front end to use supabase as backend. I am completele new to this and have been teaching me supabase by taking courses for it. 
+Issues: https://github.com/next-wave-dev-org/nwd-static-website/issues/72, https://github.com/next-wave-dev-org/nwd-static-website/issues/116, https://github.com/SeattleColleges/nsc-events-fullstack/issues/145
+Pull Requests: https://github.com/next-wave-dev-org/nwd-static-website/pull/115, https://github.com/next-wave-dev-org/nwd-static-website/pull/117
+Pull Request reviews: https://github.com/next-wave-dev-org/nwd-static-website/pull/111, https://github.com/SeattleColleges/seattlecolleges.github.io/pull/141, https://github.com/SeattleColleges/seattlecolleges.github.io/pull/140, https://github.com/SeattleColleges/seattlecolleges.github.io/pull/139, https://github.com/SeattleColleges/seattlecolleges.github.io/pull/138
+
+Total Hours 30
+PR Reviews - 6 hours 
+Issue and PR - 12
+Research for supabase - 12
+
 Week 6
 This week I continued working on the NSC events apt end points research. Because of the supabase integration, we will need to know all of the endpoints the front end uses so that we can cover those same endpoints with supabase. This was a lot if manual work. Looking through all the files searching for all the api calls. I am sure there may be some that I have missed. I did not have a pr this week since it was mostly just research and no pr. I did two pull request reviews as well. 
 Issue: https://github.com/SeattleColleges/nsc-events-fullstack/issues/146
