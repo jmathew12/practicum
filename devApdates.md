@@ -1,3 +1,14 @@
+Week 8
+This week, I worked on nsc events and next wave dev static website. For NSC events, I set up the back end for supabase integration. We are going away from using nestjs as backend for nsc events. I had done some researach for it the past week. I removed all the back end technologies, installed supabase and added scripts for it. I also resolved a few of the merge conflicts next wave dev was having which was preventing some of the prs from closing. Also reviewed some of the pull requets.
+Issue: https://github.com/SeattleColleges/nsc-events-fullstack/issues/145
+Branch: https://github.com/SeattleColleges/nsc-events-fullstack/tree/supabase-backend-setup
+PR: https://github.com/next-wave-dev-org/nwd-static-website/pull/117, https://github.com/next-wave-dev-org/nwd-static-website/pull/115
+PR Reviews: https://github.com/next-wave-dev-org/nwd-static-website/pull/123, https://github.com/next-wave-dev-org/nwd-static-website/pull/113, https://github.com/next-wave-dev-org/nwd-static-website/pull/112
+Total Hours: 24 hours
+Issue: 20 hours
+PR reviews: 4 hours
+
+
 Week 7
 This week I worked on next wave dev static website and nsc events supabase backend integration. I added myself to the developers page on next wave dev and then helped refactor the files in next wave dev. developers were still being refered to as students - changes what was remaining when we cloned the nsc ad website for next wave dev. I changed all the reference of student to developer. I also helped review a whole bunch of pull requests. On top of that, I am working on nec events. Currently I am helping set up the front end to use supabase as backend. I am completele new to this and have been teaching me supabase by taking courses for it. 
 Issues: https://github.com/next-wave-dev-org/nwd-static-website/issues/72, https://github.com/next-wave-dev-org/nwd-static-website/issues/116, https://github.com/SeattleColleges/nsc-events-fullstack/issues/145
